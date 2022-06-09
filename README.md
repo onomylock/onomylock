@@ -1,4 +1,4 @@
-Header
+![Header](img/bio_img.png)
 
 About Me
 
