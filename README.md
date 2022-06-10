@@ -6,6 +6,8 @@
 
 ## **My Bio**
 
+I'm study in Mathematical modeling, Data Science and Linux OS. I want to become a Big programer Boy :baby:
+
 ## **Languages and Tools**
 
 ![Python](https://img.shields.io/badge/-Python-2F4F4F?style=for-the-badge&logo=python)
