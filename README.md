@@ -6,7 +6,7 @@
 
 ## **My Bio**
 
-I'm study in Mathematical modeling, Data Science and Linux OS. I want to become a Big programer Boy :baby:
+I'm studing Mathematical modeling, Data Science and Linux OS. I want to become a Big programer Boy :baby:
 
 ## **Languages and Tools**
 
