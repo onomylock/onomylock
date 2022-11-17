@@ -22,6 +22,6 @@ I'm studing Mathematical modeling, Data Science and Linux OS. I want to become a
 ![Pandas](https://img.shields.io/badge/-Pandas-2F4F4F?style=for-the-badge&logo=pandas)
 
 ## **Follow Me**
-
+[![CodeWars](https://www.codewars.com/users/onomylock/badges/micro)
 [![VK](https://img.shields.io/badge/-VK-2F4F4F?style=for-the-badge&logo=vk)](https://vk.com/nikito4kapiska)
 [![Telegram](https://img.shields.io/badge/-telegram-2F4F4F?style=for-the-badge&logo=telegram)](https://t.me/onomylock)
